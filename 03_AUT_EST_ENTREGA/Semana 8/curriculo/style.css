@@ -1,0 +1,8 @@
+body {
+   font-size: 18px;
+}
+.information-list li {
+    text-align: center;
+    width: 50%;
+    margin-left: 20%;
+}
